@@ -1,0 +1,43 @@
+body{
+
+    background:  url("https://jumbotech.net/wp-content/uploads/2016/03/7-Best-Pattern-of-Background-Images-for-Websites-1-Dark-Wood.jpg")  no-repeat center center fixed;
+    color: white;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+  a:link{
+    color: #b9bbdf;
+  }
+  a:hover{
+    color: #a6e3e9;
+  }
+  a:visited{
+    color: #a5dee5;
+  }
+  a:active{
+    color: #e0f9b5;
+  }
+  hr{
+    border-style: dotted none none;
+    border-width: 2px;
+    border-color: grey;
+  }
+  #heading {
+    color: red;
+    font-size: 50px;
+  }
+  h2{
+    color: red;
+  }
+  .image{
+    background-color: red;
+  }
+  .image:hover{
+    background-color: green;
+  }
+  .circular{
+    border-radius:80%;
+  }
